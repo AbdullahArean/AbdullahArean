@@ -90,14 +90,14 @@
 
 
   
- <!--Adding private contributions count to total commits count
+ Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArean&count_private=true)-->
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)-->
-<!--Showing icons
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)-->
+<!-- Showing icons
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <!--theme colour change  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArean&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArean&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula) -->
 
 
 
