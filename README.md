@@ -28,7 +28,7 @@
 <br />
 
 <!-- For adding Gif -->
-<p><img align="right" alt="GIF" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/github%20readme.gif" width="500" height="350" /></p>
+<!-- <p><img align="right" alt="GIF" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/github%20readme.gif" width="500" height="350" /></p> -->
 
 
 
@@ -91,7 +91,7 @@
 
   
  <!-- Adding private contributions count to total commits count -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArean&count_private=true)-->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArean&count_private=true)--> -->
 <!-- Showing icons
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <!--theme colour change  
@@ -99,8 +99,8 @@
 
 
 
-<!-- ### Blogs posts & YouTube Videos:
-- [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/AbdullahArean/cka-ckad-series-part-6-services-pi6)
+### Blogs posts & YouTube Videos:
+<!-- [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/AbdullahArean/cka-ckad-series-part-6-services-pi6)
 - [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/AbdullahArean/cka-ckad-series-part-5-networking-4dpe)
 - [Edit your files in vim](https://dev.to/AbdullahArean/edit-your-files-in-vim-2llm)
 - [CKA &amp; CKAD Series &lpar;Part 4&rpar;: Deployment &amp; roll out](https://dev.to/AbdullahArean/cka-ckad-series-part-4-deployment-roll-out-1655)
@@ -129,4 +129,4 @@ YAML     16 mins         ████░░░░░░░░░░░░░░�
  
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdullahArean&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <!--[Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdullahArean&theme=xcode)>
+ [Arean's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdullahArean&theme=xcode)
