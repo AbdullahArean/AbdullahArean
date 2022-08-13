@@ -1,12 +1,12 @@
 
 <!-- Updating my readme for GitHub-->
 
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. Shahriyar Al Mustakim Mitul</h1>
+<h1 align="center">Hi <img src="https://github.com/AbdullahArean/AbdullahArean/blob/main/Wave.gif" height="55px" width="55px">, I'm Abdullah Ibne Hanif Arean</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=C/C++ Problem Solver;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 
@@ -14,21 +14,21 @@
 
 
 <p align="left">
-<a href="https://twitter.com/ShahriyarMitul" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/shahriyarmitul/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://www.twitch.tv/mitul3737" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitch.png" alt="" height="30" /></a>
-<a href= "https://www.youtube.com/c/MitulShahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/YouTube.png" alt="" height="30" /></a>
-<a href="https://dev.to/mitul3737" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/Devto.png" alt="" height="30" /></a>
-<a href="https://www.facebook.com/shahriyaralmustakim.mitul/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/facebook.png" alt="" height="30" /></a>
+<a href="https://twitter.com/AbdullahArean" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/abdullaharean/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/shahriyarmitul/" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<!-- <a href="https://www.twitch.tv/AbdullahArean" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/twitch.png" alt="" height="30" /></a>
+<a href= "https://www.youtube.com/c/MitulShahriyar" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/YouTube.png" alt="" height="30" /></a>
+<a href="https://dev.to/AbdullahArean" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/Devto.png" alt="" height="30" /></a> -->
+<a href="https://www.facebook.com/arean.abdullah" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/facebook.png" alt="" height="30" /></a>
 </p>
 
  
-![](https://visitor-badge.glitch.me/badge?page_id=mitul3737.mitul3737)
+![](https://visitor-badge.glitch.me/badge?page_id=AbdullahArean.AbdullahArean)
 <br />
 
 <!--For adding Gif
-<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
+<p><img align="right" alt="GIF" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
 
 
 
@@ -59,9 +59,9 @@
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/mitul3737/mitul3737"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mitul3737&theme=highcontrast"/></a>
-    <a href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" width=55%/></a>
-    <a href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul3737&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+    <a href="https://github.com/AbdullahArean/AbdullahArean"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahArean&theme=highcontrast"/></a>
+    <a href="https://github.com/AbdullahArean/AbdullahArean"><img alt="Mitul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahArean&show_icons=true&theme=merko" width=55%/></a>
+    <a href="https://github.com/AbdullahArean/AbdullahArean"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahArean&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
   
 </details>
 
@@ -79,9 +79,9 @@
 <summary><b>Honors & Awards 🏅</b></summary>
   
 - Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS <br>
-- Received [ Postman Student Expert](https://api.badgr.io/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarmitul3737%40gmail.com) badge for completing labs  of Postman <br>
+- Received [ Postman Student Expert](https://api.badgr.io/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarAbdullahArean%40gmail.com) badge for completing labs  of Postman <br>
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) <br>
-- Became [Postman Student Expert](https://badgr.com/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarmitul3737%40gmail.com) after completing training on Postman <br>
+- Became [Postman Student Expert](https://badgr.com/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarAbdullahArean%40gmail.com) after completing training on Postman <br>
 - Blog shared by Dev Community [Post](https://twitter.com/ThePracticalDev/status/1476840641338527753)
 
 </details>
@@ -91,28 +91,28 @@
 
   
  <!--Adding private contributions count to total commits count
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArean&count_private=true)-->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)-->
 <!--Showing icons
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)-->
 <!--theme colour change  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArean&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
 
 
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/mitul3737/cka-ckad-series-part-6-services-pi6)
-- [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/mitul3737/cka-ckad-series-part-5-networking-4dpe)
-- [Edit your files in vim](https://dev.to/mitul3737/edit-your-files-in-vim-2llm)
-- [CKA &amp; CKAD Series &lpar;Part 4&rpar;: Deployment &amp; roll out](https://dev.to/mitul3737/cka-ckad-series-part-4-deployment-roll-out-1655)
-- [CKA &amp; CKAD Series &lpar;Part 3&rpar;: Replication controller &amp; replicaset](https://dev.to/mitul3737/cka-ckad-series-part2-replication-controller-replicaset-23lg)
-- [Use yaml format for Kubernetes from VS Code extension](https://dev.to/mitul3737/use-yaml-format-for-kubernetes-from-vs-code-extension-3n9e)
-- [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/mitul3737/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
-- [Install MicroK8s in Ubuntu](https://dev.to/mitul3737/install-microk8s-in-ubuntu-3jfj)
-- [[Solved] The connection to the server 127.0.0.1:16443 was refused - did you specify the right host or port? &lpar;Ubuntu&rpar;](https://dev.to/mitul3737/solved-the-connection-to-the-server-12700116443-was-refused-did-you-specify-the-right-host-or-port-fdp)
-- [Kubernetes series &lpar;Part 3&rpar;: Use kubectl](https://dev.to/mitul3737/kubernetes-series-part-3-use-kubectl-2ja3)
+- [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/AbdullahArean/cka-ckad-series-part-6-services-pi6)
+- [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/AbdullahArean/cka-ckad-series-part-5-networking-4dpe)
+- [Edit your files in vim](https://dev.to/AbdullahArean/edit-your-files-in-vim-2llm)
+- [CKA &amp; CKAD Series &lpar;Part 4&rpar;: Deployment &amp; roll out](https://dev.to/AbdullahArean/cka-ckad-series-part-4-deployment-roll-out-1655)
+- [CKA &amp; CKAD Series &lpar;Part 3&rpar;: Replication controller &amp; replicaset](https://dev.to/AbdullahArean/cka-ckad-series-part2-replication-controller-replicaset-23lg)
+- [Use yaml format for Kubernetes from VS Code extension](https://dev.to/AbdullahArean/use-yaml-format-for-kubernetes-from-vs-code-extension-3n9e)
+- [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/AbdullahArean/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
+- [Install MicroK8s in Ubuntu](https://dev.to/AbdullahArean/install-microk8s-in-ubuntu-3jfj)
+- [[Solved] The connection to the server 127.0.0.1:16443 was refused - did you specify the right host or port? &lpar;Ubuntu&rpar;](https://dev.to/AbdullahArean/solved-the-connection-to-the-server-12700116443-was-refused-did-you-specify-the-right-host-or-port-fdp)
+- [Kubernetes series &lpar;Part 3&rpar;: Use kubectl](https://dev.to/AbdullahArean/kubernetes-series-part-3-use-kubectl-2ja3)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -131,6 +131,6 @@ YAML     16 mins         ████░░░░░░░░░░░░░░�
 
   
  
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdullahArean&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <!--[Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)>
+ <!--[Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdullahArean&theme=xcode)>
