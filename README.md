@@ -28,24 +28,12 @@
 <a  href="https://www.facebook.com/arean.abdullah"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/facebook.png"  alt=""  height="30"  /></a>
 </p>
 
-  
-
 ![](https://visitor-badge.glitch.me/badge?page_id=AbdullahArean.AbdullahArean)
 
 <br  />
 
-  
-
 <!-- For adding Gif -->
-
-<!-- <p><img  align="right"  alt="GIF"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/areancodes.gif"  width="500"  height="350"  /></p> -->
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" 
-align="right"
-frameBorder="0" class="giphy-embed" 
-allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">Coder's Profile</a></p>
-  
-  
+<p><img  align="right"  alt="GIF"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/areancodes.gif"  width="500"  height="350"  /></p>
 
 ### About Me 🚀
 
