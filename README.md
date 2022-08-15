@@ -19,11 +19,8 @@
 <a href="https://www.instagram.com/not_sec_c/" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/instagram.png" alt="" height="30" /></a>
  <a href="https://www.thoughtsofarean.blogspot.com" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/blogger.png" alt="" height="30" /></a>
 <a href= "https://www.youtube.com/channel/UCrTNziSAR2lkan4Afm88_lQ" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/YouTube.png" alt="" height="30" /></a>
-
-<a href="https://stackoverflow.com/users/15420466/abdullah-ibne-hanif-arean" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
-
+<a href= "https://stackoverflow.com/users/15420466/abdullah-ibne-hanif-arean" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
 <a href="https://leetcode.com/AbdullahArean/" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/Leetcode.png" alt="" height="30" /></a>
-
 <a href="https://www.facebook.com/arean.abdullah" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/facebook.png" alt="" height="30" /></a>
 </p>
 
@@ -74,9 +71,11 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p> 
-<summary><b>My Experiences 🙌</b></summary>
-    
+</p>
+<details> 
+<summary><b>My Projects 🙌</b></summary>
+- [War Of Independence-1971(WOI-1971)](https://github.com/AbdullahArean/WOI-1971) - War Of Independence-1971(WOI-1971) is an SDL-based action game written in C language. Simple, clear, and easily customizable code made this game distinctive. Based on the Bangladeshi people's war of independence against Pakistani military forces in 1971. The bravery of the Bangladeshi Freedom Fighters is honored with great reverence in this game.<br>  
+- [Hospice-(The Ultimate Hospital Management System)](https://github.com/AbdullahArean/Hospice) - To reduce hastle of managing the financial, hospital administration, and clinical aspects, Hospice-(The Ultimate Hospital Management System) came into existence. It will benefit Hospitals or clinics by increasing Processing Speed and Results, Cost Effective, Reduction in Errors, Data Security and Retrieving Ability, Improved Patient Care with Quality and Compliance.  It is written in Java and used JavaFx for graphics.<br> 
 <!-- 
 - [GitHub Campus Expert](https://githubcampus.expert/experts) - Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects.<br>
 - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Mitul&cb-cards.q_operator=AND) – AWS Community builders are very enthusiast about Cloud and they do experiment cloud features and do test some awesome features and enlightens their community <br>
