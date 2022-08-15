@@ -181,8 +181,8 @@
   
 <details>
  <summary><b>Certifications,Honors & Awards 🏅</b></summary>
- - [Google IT Support Professional Certificate](https://coursera.org/share/7807d7053525fb1090029ece2b1a7f05)Learned about the Bits and Bytes of Computer Networking,Technical Support Fundamentals, System Administration and IT Infrastructure Services ,IT Security: Defense against the digital dark arts,Operating Systems: Becoming a Power User. Approximately 30 Weeks to accomplish completely with hands on lab.
- - [Python For Everybody](https://www.coursera.org/specializations/python) Learned Basic Python, Using Databases with Python,Python Data Structures,Using Python to Access Web Data, Retrieving, Processing, and Visualizing Data with Python. Approximately 32 Weeks to accomplish completely with hands on lab.
+ - [Google IT Support Professional Certificate](https://coursera.org/share/7807d7053525fb1090029ece2b1a7f05) Learned about the Bits and Bytes of Computer Networking,Technical Support Fundamentals, System Administration and IT Infrastructure Services ,IT Security: Defense against the digital dark arts,Operating Systems: Becoming a Power User. Approximately 30 Weeks to accomplish completely with hands on lab.<br>
+ -  [Python For Everybody](https://www.coursera.org/specializations/python)  Learned Basic Python, Using Databases with Python,Python Data Structures,Using Python to Access Web Data, Retrieving, Processing, and Visualizing Data with Python. Approximately 32 Weeks to accomplish completely with hands on lab.
 
  <!-- - Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS <br>
 
