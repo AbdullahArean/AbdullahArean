@@ -82,7 +82,7 @@
   
   
 <details>
-<summary><b>Open Source Contribution:</b></summary>
+<summary><b>Open Source Contribution</b></summary>
 
 - Contributor at [CNCF Glossary Bengali Localization](https://github.com/cncf/glossary/blob/86b606003a7391d30e3c9d57c9e53cbcc22467d8/.github/settings.yml#L110)<br>
 </details>
@@ -99,9 +99,9 @@
  
 <details>
 <summary><b>Blogs posts & YouTube</b> </summary> Videos:
-- [How To Contribute in CNCF Glossary Bengali Localization (Bengali)](https://thoughtsofarean.blogspot.com/2022/08/glossary.html)
-- [CNCF Gloaary Bengali Style Guide (Bengali)](https://thoughtsofarean.blogspot.com/2022/08/blog-post.html)
-- [A Cool Project Written in C/SDL2 (With Source Code)](https://www.youtube.com/watch?v=1e38v-MTL8w)
+- [How To Contribute in CNCF Glossary Bengali Localization (Bengali)](https://thoughtsofarean.blogspot.com/2022/08/glossary.html)<br>
+- [CNCF Gloaary Bengali Style Guide (Bengali)](https://thoughtsofarean.blogspot.com/2022/08/blog-post.html)<br>
+- [A Cool Project Written in C/SDL2 (With Source Code)](https://www.youtube.com/watch?v=1e38v-MTL8w)<br>
 
 </details>  
 
