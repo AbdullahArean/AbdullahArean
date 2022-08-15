@@ -21,6 +21,7 @@
   
 
 <p  align="left">
+
 <a  href="https://twitter.com/AbdullahArean"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/twitter.png"  title = "Twitter"  alt=""  height="30"  /></a>
 <a  href="https://www.linkedin.com/in/abdullaharean/"  target="blank"><img  align="center"  src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png"  alt=""  height="30"  /></a>
 <a  href="https://www.instagram.com/not_sec_c/"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/instagram.png"  alt=""  height="30"  /></a>
@@ -60,13 +61,8 @@
 🌱 Learning Android Development, Cloud Computing, UI/UX, Problem Solving</br>
 
 😄 Pronouns: He/him/his</br>
-<!-- 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=abdullaharean&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-   -->
+  
   
   
 
@@ -221,7 +217,7 @@
   
   
 
-### Blogs posts & YouTube Videos📈:
+### Blogs posts & YouTube Videos:
 - [How To Contribute in CNCF Glossary Bengali Localization (Bengali)](https://thoughtsofarean.blogspot.com/2022/08/glossary.html)
 - [CNCF Gloaary Bengali Style Guide (Bengali)](https://thoughtsofarean.blogspot.com/2022/08/blog-post.html)
 - [A Cool Project Written in C/SDL2 (With Source Code)](https://www.youtube.com/watch?v=1e38v-MTL8w)
