@@ -21,23 +21,14 @@
   
 
 <p  align="left">
-
 <a  href="https://twitter.com/AbdullahArean"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/twitter.png"  title = "Twitter"  alt=""  height="30"  /></a>
-
 <a  href="https://www.linkedin.com/in/abdullaharean/"  target="blank"><img  align="center"  src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png"  alt=""  height="30"  /></a>
-
 <a  href="https://www.instagram.com/not_sec_c/"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/instagram.png"  alt=""  height="30"  /></a>
-
 <a  href="https://www.thoughtsofarean.blogspot.com"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/blogger.png"  alt=""  height="30"  /></a>
-
 <a  href= "https://www.youtube.com/channel/UCrTNziSAR2lkan4Afm88_lQ"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/YouTube.png"  alt=""  height="30"  /></a>
-
 <a  href= "https://stackoverflow.com/users/15420466/abdullah-ibne-hanif-arean"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/stackoverflow.png"  alt=""  height="30"  /></a>
-
 <a  href="https://leetcode.com/AbdullahArean/"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/leetcode.png"  alt=""  height="30"  /></a>
-
 <a  href="https://www.facebook.com/arean.abdullah"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/facebook.png"  alt=""  height="30"  /></a>
-
 </p>
 
   
@@ -69,7 +60,12 @@
 🌱 Learning Android Development, Cloud Computing, UI/UX, Problem Solving</br>
 
 😄 Pronouns: He/him/his</br>
+📊 &nbsp;**This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=abdullaharean&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
   
   
   
