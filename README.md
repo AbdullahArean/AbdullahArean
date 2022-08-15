@@ -179,10 +179,12 @@
   
   
   
+<details>
+ <summary><b>Certifications,Honors & Awards 🏅</b></summary>
+ - [Google IT Support Professional Certificate](https://coursera.org/share/7807d7053525fb1090029ece2b1a7f05)Learned about the Bits and Bytes of Computer Networking,Technical Support Fundamentals, System Administration and IT Infrastructure Services ,IT Security: Defense against the digital dark arts,Operating Systems: Becoming a Power User. Approximately 30 Weeks to accomplish completely with hands on lab.
+ - [Python For Everybody](https://www.coursera.org/specializations/python) Learned Basic Python, Using Databases with Python,Python Data Structures,Using Python to Access Web Data, Retrieving, Processing, and Visualizing Data with Python. Approximately 32 Weeks to accomplish completely with hands on lab.
 
-<!-- <summary><b>Honors & Awards 🏅</b></summary>
-
-<!-- - Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS <br>
+ <!-- - Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS <br>
 
 - Received [ Postman Student Expert](https://api.badgr.io/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarAbdullahArean%40gmail.com) badge for completing labs of Postman <br>
 
@@ -192,10 +194,7 @@
 
 - Blog shared by Dev Community [Post](https://twitter.com/ThePracticalDev/status/1476840641338527753) -->
 
-<!--
-
-</details> -->
-
+</details>
   
   
   
