@@ -20,7 +20,7 @@
  <a href="https://www.thoughtsofarean.blogspot.com" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/blogger.png" alt="" height="30" /></a>
 <a href= "https://www.youtube.com/channel/UCrTNziSAR2lkan4Afm88_lQ" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/YouTube.png" alt="" height="30" /></a>
 <a href= "https://stackoverflow.com/users/15420466/abdullah-ibne-hanif-arean" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
-<a href="https://leetcode.com/AbdullahArean/" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/Leetcode.png" alt="" height="30" /></a>
+<a href="https://leetcode.com/AbdullahArean/" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/leetcode.png" alt="" height="30" /></a>
 <a href="https://www.facebook.com/arean.abdullah" target="blank"><img align="center" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/facebook.png" alt="" height="30" /></a>
 </p>
 
@@ -29,13 +29,13 @@
 <br />
 
 <!-- For adding Gif -->
-<!-- <p><img align="right" alt="GIF" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/github%20readme.gif" width="500" height="350" /></p> -->
+<p><img align="right" alt="GIF" src="https://github.com/AbdullahArean/AbdullahArean/blob/main/areancodes.gif" width="500" height="350" /></p>
 
 
 
 ### About Me 🚀
 🎓 I’m a C/C++ Programmer With Knowledge of Data Structure and Algorithm, Diving in Problem Solving.</br>
- 🎓 Pursuing my Bachelors in Computer Science & Engineering at University of Dhaka </br>
+🎓 Pursuing my Bachelors in Computer Science & Engineering at University of Dhaka </br>
 ⛵ Open Source Enthusiast | Machine Learning Enthusiast</br>
 ✅ Learned Java and Python and did project to solve real world problem</br>
 🌱 Learning Android Development, Cloud Computing, UI/UX, Problem Solving</br>
