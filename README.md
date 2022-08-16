@@ -8,14 +8,7 @@
 <p  align="center">
 
 <img  src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Junior+Java/Python/C+Developer;Competitive+Programmer;Learning+In+Public;Real+World+Problem+Solver;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
-
-  
-
 </p>
-
-  
-  
-
 <p  align="left">
 
 <a  href="https://twitter.com/AbdullahArean"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/twitter.png"  title = "Twitter"  alt=""  height="30"  /></a>
@@ -75,9 +68,6 @@
 <a  href="https://github.com/AbdullahArean/AbdullahArean"><img  alt="Arean's language used"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahArean&layout=compact&langs_count=8&theme=gruvbox"  width=40%/></a>
 
 </details>
-
-  
-  
 <details>
 <summary><b>Open Source Contribution ✨</b></summary>
 
