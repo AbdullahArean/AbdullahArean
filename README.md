@@ -62,9 +62,7 @@
 <p  align="center">
 
 <a  href="https://github.com/AbdullahArean/AbdullahArean"><img  alt="Streak Stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahArean&theme=highcontrast"/></a>
-
 <a  href="https://github.com/AbdullahArean/AbdullahArean"><img  alt="Arean's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=AbdullahArean&show_icons=true&theme=merko"  width=55%/></a>
-
 <a  href="https://github.com/AbdullahArean/AbdullahArean"><img  alt="Arean's language used"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahArean&layout=compact&langs_count=8&theme=gruvbox"  width=40%/></a>
 
 </details>
