@@ -20,6 +20,7 @@
 <a  href="https://leetcode.com/AbdullahArean/"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/LeetCode.png"  alt=""  height="30"  /></a>
 <a  href="https://www.facebook.com/arean.abdullah"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/facebook.png"  alt=""  height="30"  /></a>
 </p>
+<a  href= "abdullaharean.medium.com"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/medium.png"  alt=""  height="30"  /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AbdullahArean.AbdullahArean)
 
