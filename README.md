@@ -16,11 +16,10 @@
 <a  href="https://www.instagram.com/not_sec_c/"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/instagram.png"  alt=""  height="30"  /></a>
 <a  href="https://www.thoughtsofarean.blogspot.com"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/blogger.png"  alt=""  height="30"  /></a>
 <a  href= "https://www.youtube.com/channel/UCrTNziSAR2lkan4Afm88_lQ"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/YouTube.png"  alt=""  height="30"  /></a>
-<a  href= "https://stackoverflow.com/users/15420466/abdullah-ibne-hanif-arean"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/stackoverflow.png"  alt=""  height="30"  /></a>
-<a  href="https://leetcode.com/AbdullahArean/"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/LeetCode.png"  alt=""  height="30"  /></a>
+<a  href= "https://stackoverflow.com/users/15420466/abdullah-ibne-hanif-arean"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/stackoverflow.png"  alt=""  height="30"  /></a><a  href= "abdullaharean.medium.com"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/medium.png"  alt=""  height="30"  /></a><a  href="https://leetcode.com/AbdullahArean/"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/LeetCode.png"  alt=""  height="30"  /></a>
 <a  href="https://www.facebook.com/arean.abdullah"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/facebook.png"  alt=""  height="30"  /></a>
 </p>
-<a  href= "abdullaharean.medium.com"  target="blank"><img  align="center"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/socials/medium.png"  alt=""  height="30"  /></a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AbdullahArean.AbdullahArean)
 
