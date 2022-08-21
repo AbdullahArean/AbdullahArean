@@ -25,9 +25,9 @@
 
 <br  />
 
-<!-- For adding Gif -->
+<!-- For adding Gif 
 <p><img  align="right"  alt="GIF"  src="https://github.com/AbdullahArean/AbdullahArean/blob/main/areancodes.gif"  width="500"  height="350"  /></p>
-
+-->
 ### About Me 🚀
 
 🧑🏽‍💻 I’m a C/C++ Programmer With Knowledge of Data Structure and Algorithm, Diving in Problem Solving.</br>
