@@ -7,7 +7,7 @@
 
 <p  align="center">
 
-<img  src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Microsoft+Learn+Student+Ambassador;Open-Source+Enthusiast;Junior+Java/Python/C+Developer;Competitive+Programmer;Learning+In+Public;Real+World+Problem+Solver;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+<img  src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines= Microsoft+Learn+Student+Ambassador;Open-Source+Enthusiast;Junior+Java/Python/C+Developer;Competitive+Programmer;Learning+In+Public;Real+World+Problem+Solver;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 <p  align="left">
 
