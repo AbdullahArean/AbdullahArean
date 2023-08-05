@@ -32,13 +32,13 @@
 
 🎓 Pursuing my Bachelors in Computer Science & Engineering at University of Dhaka </br>
 
-⛵ Blockchain, Machine Learning, AI, Networking Enthusiast ; Diving into Research</br>
+⛵ Machine Learning, AI, Networking Enthusiast; Diving into Research in AI and Applied Machine Learning </br>
 
 🧑🏽‍💻 C/C++ Programmer With Knowledge of Data Structure and Algorithm; Diving in Problem Solving</br>
 
-🔥 Learned Java and Python and did project to solve real world problem</br>
+🔥 Learned Java (Spring Boot) and Python (Django) and did projects to solve real world problem</br>
 
-🤫 Learned Android Development, UI/UX, Database Management System</br>
+🤫 Learned Android Development, UI/UX, and Database Management System</br>
 
 🌱 You can ask me about Open Source, Academics, Programming in Java/Python/C , Problem Solving<br>
 
@@ -75,7 +75,7 @@
   
 - [Climate Relief](https://github.com/AbdullahArean/ClimateRelief) - An Android Java Application is developed to solve problem in Relief Distribution such as Misappropriation of remedy, insufficient relief, lack of centralized system or list, and absence of a complaint resolution mechanism. [Live Demo App Download](https://github.com/AbdullahArean/ClimateRelief/releases) <br>
   
-- [Hospice-(The Ultimate Hospital Management System)](https://github.com/AbdullahArean/Hospice) - To reduce hastle of managing the financial, hospital administration, and clinical aspects, Hospice-(The Ultimate Hospital Management System) came into existence. It will benefit Hospitals or clinics by increasing Processing Speed and Results, Cost Effective, Reduction in Errors, Data Security and Retrieving Ability, Improved Patient Care with Quality and Compliance. It is written in Java and used JavaFx for graphics.<br>
+- [Hospice-(The Ultimate Hospital Management System)](https://github.com/AbdullahArean/Hospice) - To reduce hastle of managing the financial, hospital administration, and clinical aspects, Hospice-(The Ultimate Hospital Management System) came into existence. It will benefit Hospitals or clinics by increasing Processing Speed and Results, Cost Effective, Reduction in Errors, Data Security and Retrieving Ability, and Improved Patient Care with Quality and Compliance. It is written in Java and used JavaFx for graphics.<br>
 
 - [War Of Independence-1971(WOI-1971)](https://github.com/AbdullahArean/WOI-1971) - An SDL2-based action game written in C language. Simple, clear, and easily customizable code made this game distinctive. Based on the Bangladeshi people's war of independence against Pakistani military forces in 1971. The bravery of the Bangladeshi Freedom Fighters is honored with great reverence in this game.<br>
 
