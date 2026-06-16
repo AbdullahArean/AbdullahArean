@@ -1,0 +1,432 @@
+%-------------------------
+% Resume in Latex
+% Author : Abey George
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+\RequirePackage{fontawesome}
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{cvgreen}{HTML}{3BD80D}
+\definecolor{taggreen}{HTML}{00E278}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{darkcolor}
+\colorlet{heading}{darkcolor}
+\colorlet{headingrule}{cvblue}
+\colorlet{accent}{darkcolor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      \textit{\large#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.0\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{1pt} % Reduced the space after the table for compactness
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}}
+
+\newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Abdullah Ibne Hanif Arean} \\ \vspace{1pt}
+    Dhaka, Bangladesh \\ \vspace{1pt}
+    \small \href{tel:+8801787474777}{ \raisebox{-0.1\height}\faPhone\ \underline{+880-1787474777} ~} \href{mailto:abdullaharean2613@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{abdullaharean2613@gmail.com}} ~ 
+    \href{https://linkedin.com/in/abdullaharean}{\raisebox{-0.2\height}\faLinkedin\ \underline{abdullaharean}}  ~
+    \href{https://github.com/AbdullahArean}{\raisebox{-0.2\height}\faGithub\ \underline{AbdullahArean}} ~
+    \href{https://twitter.com/AbdullahArean}{\raisebox{-0.2\height}\faTwitter\ \underline{@AbdullahArean}}
+    \vspace{-8pt}
+\end{center}
+
+
+
+%------RELEVANT COURSEWORK-------
+% \section{COURSEWORK / SKILLS}
+%     \begin{multicols}{4}
+%         \begin{itemize}[itemsep=-2pt, parsep=5pt]
+%             \item Data Structures \& Algorithms
+%             \item Web Development
+%             \item Android Development
+%             \item Database Management Systems
+%             \item Software Engineering
+%             \item Operating Systems
+%             \item Machine Learning
+%             \item Artificial Intelligence
+%         \end{itemize}
+%     \end{multicols}
+%     \vspace*{2.0\multicolsep}
+
+% %-----------PROGRAMMING SKILLS-----------
+
+\section{CAREER SUMMARY}
+AI researcher specializing in natural language processing, computer vision, and graph learning, with a strong focus on building trustworthy, explainable, and impactful intelligent systems. My work spans long-context reasoning, graph-based learning, multimodal AI, and low-resource NLP, with particular emphasis on developing practical AI solutions for real-world challenges. Beyond research, I am deeply committed to inclusive technology education in Bangladesh, where I have helped more than 2,000 individuals explore and engage with the transformative potential of technology.
+
+%  \vspace{-15pt}
+\section{PERSONAL DETAILS}
+
+\begin{tabular}{>{\raggedright\arraybackslash}m{0.6\textwidth}>{\raggedright\arraybackslash}m{0.35\textwidth}}
+% \begin{minipage}[t]{\linewidth}
+  \textbf{Full Name:} Abdullah Ibne Hanif Arean \\
+  \textbf{Date of Birth:} 20 October 2001 \\
+  \textbf{Place of Birth:} Noakhali, Bangladesh \\
+  \textbf{Height:} 6'2'' \\
+  \textbf{Complexion:} Bright Brown \\
+    \textbf{Blood Group:} O+ \\
+  \textbf{Religion:} Islam \\
+  \textbf{Nationality:} Bangladeshi \\
+    \textbf{NID Number:} 7810323266 \\
+      % \textbf{Passport Number:} Bright Brown \\
+  % \textbf{Contact Number:} +880-1787474777 \\
+  \textbf{Email:} \href{mailto:abdullaharean2613@gmail.com}{abdullaharean2613@gmail.com}\\
+  \textbf{Present Address}: Apartment G-4, DFL Dream House 5, Road 10, New Town
+R/A, Demra, Dhaka, Bangladesh\\
+% Present Address 2: Abdul Wahab Degree College Quarter,
+% Khilpara, Chatkhil, Noakhali, Bangladesh
+\textbf{Permanent Address:} Mukbul Ahmed’s House, Mannannagar,
+Sadar, Noakhali, Bangladesh
+% \end{minipage}
+% &
+% \begin{minipage}[t]{\linewidth}
+%   \vspace{0pt}
+%   \includegraphics[width=4.0cm,keepaspectratio]{Arean_Image.jpg}
+% \end{minipage}
+\\
+\end{tabular}
+%-----------EDUCATION-----------
+\section{EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Dhaka}{Januray 2020 -- June 2025}
+      {B.Sc. in Computer Science \& Engineering - \textbf{CGPA} - \textbf{3.90/4.00 (Top of Class)}}{Dhaka, Bangladesh}
+    \resumeSubheading
+      {Rajuk Uttara Model College}{June 2017 -- July 2019}
+      {Higher Secondary School Certificate (Science) - \textbf{GPA} - \textbf{5.00/5.00}}{Dhaka, Bangladesh}
+  \resumeSubHeadingListEnd
+      \resumeSubheading
+      {Chatkhil Govt. Pach Gaon High School}{January 2015 -- May 2017}
+      {Secondary School Certificate (Science) - \textbf{GPA} - \textbf{5.00/5.00}}{Noakhali, Bangladesh}
+  \resumeSubHeadingListEnd
+%-----------HONORS & AWARDS---------------
+\section{HONORS \& AWARDS}
+\begin{itemize}[leftmargin=0.15in]
+    \small
+    \item \href{https://www.linkedin.com/posts/abdullaharean_areans-deans-award-invitation-activity-7388431943425634304--Csq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{2025: Dean's Award For Academic Excellence, Faculty of Engineering, University of Dhaka}
+    \item \href{https://www.linkedin.com/posts/abdullaharean_duabrbayanno-naturallanguageprocessing-bengaliheritage-activity-7169360072488239127-G48N?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{2024: Champion, Inter University NLP Idea Competition, Linguistics Department, University of Dhaka}
+    \item \href{https://www.linkedin.com/posts/abdullaharean_i-am-glad-to-announce-that-my-team-teamkhitakortesi-activity-7173172405664698368-Xx_m?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{2024: 1st Runners Up, Bhashamul: Inter University NLP Competition, United Internationl University}
+    \item \href{https://www.linkedin.com/posts/abdullaharean_i-am-thrilled-to-announce-that-our-team-activity-7166064837989462017-Hi8E?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{2024: 2nd Runners Up, DL Enigma 1.0: Inter University Deep Learning Competition, SUST}
+    \item \href{https://www.linkedin.com/posts/abdullaharean_codesamuraibd-hackathon-innovation-activity-7196073001052749825-R3Yc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{2024: 7th Position, Code Samurai 2024 Hackathon Final Round, University of Dhaka}
+    \item \href{https://www.linkedin.com/posts/abdullaharean_participated-in-code-samurai-2022-final-round-activity-7015198888487780352-T0I_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{2022: Finalist, Code Samurai 2022 Hackathon Final Round, DU}
+    % \item \href{https://www.example.com}{2024: Best Volunteer Award, Dhaka University IT Society Annual Function}
+    \item \href{https://www.linkedin.com/posts/abdullaharean_alhamdulillah-awarded%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A9%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%82-activity-6996676041817669632-7uZK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{2022: Best Volunteer Award, Dhaka University IT Society Annual Function}
+    \item \href{https://drive.google.com/file/d/1XfBGqnFZdk5kAWYaxUz4ZkmdEGU7P6x_/view?usp=sharing}{2019: 6th Position, Physics Olympiad Dhaka North Regional Round}
+    \item \href{https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing}{2015: 12th Position, Physics Olympiad National Round}
+\end{itemize}
+%-----------EXPERIENCE-----------
+\section{WORK EXPERIENCE}
+  \resumeSubHeadingListStart
+  \resumeSubheading
+  {The KOW Company}{June 2025 -- Present}
+  {Junior AI Researcher — Full Time - On-site}{Dhaka, Bangladesh}
+  \resumeItemListStart
+    % \resumeItem{Engaged in cutting-edge research in computer vision to address real-world industry challenges.}
+    % \resumeItem{Specializing in 2D-to-3D rendering, neural reconstruction, and depth estimation for retail, robotics, and virtual environments.}
+    % \resumeItem{Leveraging neural reconstruction and depth estimation to build scalable, intelligent vision systems.}
+    \resumeItem{Developing graph-based pipelines and chain-of-thought reasoning to improve multimodal interpretation in Vision-Language Models (VLMs).}
+    \resumeItem{Leading research on specialized VLMs for diagram understanding, addressing dataset and modeling limitations.}
+    \resumeItem{Integrating explainable AI principles to address black box problems and enable deployment in safety-critical domains.}
+\resumeItemListEnd
+\resumeSubheading {Nexaus}{December 2025 -- Present} {Advisor- Part Time}{Dhaka, Bangladesh} \resumeItemListStart \resumeItem{Advising on digital transformation initiatives for EIIN-registered schools and colleges through Amar IMS, focusing on academic and administrative automation.} \resumeItem{Supporting SaaS-based business solutions for data collection, payment management, and operational efficiency.} \resumeItem{Providing consulting and academic advising to help deploy scalable, secure, and cost-effective IT solutions.} \resumeItemListEnd \resumeSubheading {Sigmoix AI}{July 2025 -- Present} {Co-Founder \& CDOO - Part Time}{United States (Remote)} \resumeItemListStart \resumeItem{Co-leading the development of end-to-end AI systems designed to solve real enterprise problems with measurable business impact.} \resumeItem{Overseeing production-ready AI deployment pipelines for scalable enterprise integration.} \resumeItem{Working on AI, NLP, and research-backed intelligent systems to improve business automation and decision-making.} \resumeItemListEnd
+    \resumeSubheading
+      {Cognitive Agents And Interaction Lab, CSE, University of Dhaka}{January 2024 -- May 2025}
+      {Research Assistant - Full Time}{Dhaka, Bangladesh}
+      \resumeItemListStart
+        \resumeItem{Collected Multiple Datasets in Bangla Language spanning more than 50 million Bangla Sentences.}
+        \resumeItem{Built Multiple LLM based models for Bangla Summarization, Translation and other tasks.}
+        \resumeItem{Worked on creating Hand Written Image Recognition For Bangla.}
+      \resumeItemListEnd  
+
+      \resumeSubheading {RoboFication LLC}{April 2025 -- May 2025} {AI Research Associate - Part Time}{United States (Remote)} \resumeItemListStart \resumeItem{Worked on developing AI-driven tools using advanced techniques including large language models.} \resumeItem{Collaborated with engineers on automation, validation, and verification workflows.} \resumeItemListEnd
+      
+      \resumeSubheading
+      {D-Ready}{April 2024 -- August 2024}
+      {Software Engineer Intern  - Part Time}{UK (Remote)}
+      \resumeItemListStart
+        \resumeItem{Worked on AI implementation in Fish Production }
+        \resumeItem{Collaborated with the team to integrate AI solutions in real-time systems.}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Masters Admission Program Project, University of Dhaka}{May 2023 -- August 2023}
+      {Freelance Software Developer - Part Time}{Dhaka, Bangladesh}
+      \resumeItemListStart
+        \resumeItem{Conducted interviews and system designing with stakeholders (teachers) to develop a system automating the Masters admission program at the University of Dhaka from scratch.}
+        \resumeItem{Worked on backend and database development.}
+        \resumeItem{Collaborated in a team to complete the project within the stipulated timeframe and maintained it throughout its lifecycle.}
+      \resumeItemListEnd  
+\resumeSubheading {MetroScientific}{September 2022 -- December 2022} {Software Engineer Intern - Part Time}{Dhaka, Bangladesh (Remote)} \resumeItemListStart \resumeItem{Worked on custom Linux kernel development for a storage device.} \resumeItem{Contributed to system-level programming in C to support low-level storage device functionality.} \resumeItem{Focused on improving storage device performance through kernel customization and system-level optimization.} \resumeItemListEnd
+
+\section{PUBLICATIONS}
+\resumeSubHeadingListStart
+
+  \resumeProjectHeading
+    {\textbf{\href{https://www.linkedin.com/posts/abdullaharean_icdar2026-documentanalysis-visionlanguagemodels-activity-7462140293249650689-WpDO}{Stroke-Level Connectivity Verification: Grounding Vision-Language Models Against Topology Hallucination}} \\
+    \small \textit{20th International Conference on Document Analysis and Recognition 2026} \,\,|\,\, \href{https://www.linkedin.com/posts/abdullaharean_icdar2026-documentanalysis-visionlanguagemodels-activity-7462140293249650689-WpDO}{Acceptance}}
+    {}
+  {\small
+  \textbf{Authors:} \textbf{\href{https://openreview.net/profile?id=~Abdullah_Ibne_Hanif_Arean1}{Abdullah Ibne Hanif Arean}}, Niamul Hassan Samin, Md Arifur Rahman, Renu Akter Suity, Juena Ahmed Noshin, Md Ashikur Rahman
+  }
+  \resumeItemListStart
+    \resumeItem{Proposes Stroke-Level Connectivity Verification (SLCV), enforcing pixel-grounded proof of connectivity via continuous stroke paths in diagrams.}
+    \resumeItem{Introduces PaRCO, a modular architecture separating structural reconstruction, semantic reasoning, and constraint validation.}
+    \resumeItem{Establishes topology-aware verification as a reusable primitive for multimodal document understanding tasks.}
+  \resumeItemListEnd
+  \resumeProjectHeading
+    {\textbf{\href{https://aclanthology.org/2025.findings-ijcnlp.134/}{SOMAJGYAAN: Evaluating LLMs on Bangla Culture and Social Knowledge}} \\
+    \small \textit{AACL-IJCNLP 2025 Findings} \,\,|\,\, \href{https://openreview.net/forum?id=iE3WjTJq8s}{OpenReview}}
+    {}
+  {\small
+  \textbf{Authors:} Fariha Anjum Shifa, Muhtasim Ibteda Shochcho, \textbf{\href{https://openreview.net/profile?id=~Abdullah_Ibne_Hanif_Arean1}{Abdullah Ibne Hanif Arean}}, Mohammad Ashfaq Ur Rahman, Akm Moshiur Rahman Mazumder, Ahaj Faiak, Md Fahim, M Ashraful Amin, Amin Ahsan Ali, AKMMAHBUBUR RAHMAN
+  }
+  \resumeItemListStart
+    \resumeItem{Introduces a 4,234-question Bangla multiple-choice \& Benchmarks open-source vs. closed-source LLMs; LoRA fine-tuning narrows gaps for open models but gaps remain.}
+    \resumeItem{Highlights non-STEM cultural and social knowledge coverage unique among existing Bangla datasets.}
+  \resumeItemListEnd
+
+\resumeProjectHeading
+    {\textbf{\href{https://arxiv.org/abs/2502.17843}{Automatic Vehicle Detection Using DETR: A Transformer-Based Approach for Navigating Treacherous Roads}} \\
+    \small \textit{arXiv Preprint Feb 2025}}
+    {}
+  {\small
+  \textbf{Authors:} Istiaq Ahmed Fahad, \textbf{Abdullah Ibne Hanif Arean}, Nazmus Sakib Ahmed, Mahmudul Hasan
+  }
+  \resumeItemListStart
+    \resumeItem{Proposed one of the first DETR-based frameworks for automatic vehicle detection in challenging driving environments, leveraging Co-DETR to improve supervision and feature learning.}
+    \resumeItem{Evaluated multiple DETR variants and YOLO baselines on the BadODD dataset, demonstrating improved robustness under diverse road, lighting, and weather conditions.}
+    \resumeItem{Introduced collaborative hybrid assignment training with auxiliary heads to enhance training efficiency and detection performance for real-world autonomous navigation systems.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\section{PROJECTS}
+\vspace{-5pt}
+\resumeSubHeadingListStart
+
+  \resumeProjectHeading
+    {\textbf{\large{\underline{PressWiz}}} $|$ 
+    \large{\underline{\href{https://cognistorm.ai/presswiz}{Web Application}, 
+    \href{https://docs.google.com/drawings/d/1Vf9rOjCAEey3M1n5yTMgTJZPAY5EgErZ01C3hPsvEhM/edit?usp=sharing}{Presentation}, 
+    \href{https://drive.google.com/file/d/1W2ku8RN8v1oC3i1IgMh21az4pTyZyDMA/view?usp=sharing}{Thesis}}}}{June 2024 -- March 2025}
+    \resumeItemListStart
+      \resumeItem{Engineered a web-based news aggregation platform that ingests, normalizes, and summarizes Bangla articles from multiple publishers in real time.}
+      \resumeItem{Designed and implemented \textit{LongBanSum}, a T5-based transformer with combined local–global attention (TGlobal) optimized for long-sequence Bangla summarization.}
+      \resumeItem{Curated the \textbf{MASBA} corpus of 669,699 articles with multi-level human-written summaries, ensuring diverse, high-quality data for model training.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\large{\underline{Meramot: Comprehensive Tech Services Platform}}} $|$ 
+    \large{\underline{\href{https://github.com/AbdullahArean/Meramot}{GitHub}}}}{January 2023 -- June 2023}
+    \resumeItemListStart
+      \resumeItem{Collaborated on full-stack development of a centralized portal delivering on-demand IT support and solutions for common technical issues.}
+      \resumeItem{Led design of service workflows, created  technical documentation, and maintained release cycles.}
+      \resumeItem{Implemented core services using Spring Boot, Spring MVC, and Java, integrating authentication, and RESTful APIs.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\large{\underline{Climate Relief}}} $|$ 
+    \large{\underline{\href{https://www.linkedin.com/posts/abdullaharean_climate-relief-android-java-app-presentation-activity-6995318065198497792-78-o?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28}{Presentation}, 
+    \href{https://github.com/AbdullahArean/climaterelief}{GitHub}}}}{July 2022 -- November 2022}
+    \resumeItemListStart
+      \resumeItem{Developed an Android application in Java to streamline disaster relief distribution and resource tracking in affected regions.}
+      % \resumeItem{Integrated geolocation services and dynamic supply-chain modules to optimize allocation and minimize resource misappropriation.}
+      \resumeItem{Designed a secure backend API and SQLite database schema to ensure data integrity, real-time updates, and offline resilience.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\large{\underline{Uposthit: Ultimate Attendance Management System}}} $|$ 
+    \large{\underline{\href{https://github.com/AbdullahArean/uposthit}{GitHub}}}}{July 2022 -- December 2023}
+    \resumeItemListStart
+      \resumeItem{Led end-to-end development of a scalable attendance management system, coordinating stakeholder interviews and requirement elicitation.}
+      % \resumeItem{Authored UML diagrams and designed a normalized MySQL database to support secure record-keeping and flexible reporting.}
+      \resumeItem{Implemented biometric and QR-code check‑in features with JavaFX frontend, ensuring seamless user experience and data accuracy.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\large{\underline{Hospice: Hospital Management Suite}}} $|$ 
+    \large{\underline{\href{https://github.com/AbdullahArean/Hospice}{GitHub}}}}{April 2022 -- June 2022}
+    \resumeItemListStart
+      \resumeItem{Architected a modular hospital management system using JavaFX for the UI and MySQL for backend operations.}
+      \resumeItem{Developed patient registration, appointment scheduling, and inventory modules with secure role‑based access control.}
+      % \resumeItem{Integrated reporting dashboards and automated notification services to improve administrative efficiency and patient care.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\large{\underline{War of Independence-1971 (WOI-1971) Game}}} $|$ 
+    \large{\underline{\href{https://github.com/AbdullahArean/woi-1971}{GitHub}}}}{May 2021 -- August 2021}
+    \resumeItemListStart
+      \resumeItem{Created a C/C++ action game using SDL2 to honor Bangladeshi Freedom Fighters with historically inspired levels and narratives.}
+      \resumeItem{Implemented custom physics, sprite animations, and AI-driven enemy behaviors for an engaging gameplay experience.}
+      \resumeItem{Designed sound effects and a dynamic scoring system, and packaged builds for Windows and Linux distributions.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+
+% %-----------PROGRAMMING SKILLS-----------
+\section{TECHNICAL SKILLS}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+        \textbf{\normalsize{Languages:}}{ \normalsize{C, C++, Java, Python, JavaScript, Dart}} \\
+        \textbf{\normalsize{Frameworks \& Libraries:}}{ \normalsize{React, Node.js, Flutter, Spring Boot, PyTorch, TensorFlow}} \\
+        \textbf{\normalsize{Databases:}}{ \normalsize{MongoDB, PostgreSQL, SQLite}} \\
+        \textbf{\normalsize{Computer Science Fundamentals:}}{ \normalsize{OOP, OS, Algorithms, Data Structures, Complexity Analysis}} \\
+        \textbf{\normalsize{Systems \& Architecture:}}{ \normalsize{Distributed Systems, Multi-tiered Systems, RDBMS Design, System Scalability}} \\
+        \textbf{\normalsize{Problem Solving \& Optimization:}}{ \normalsize{Mathematical Optimization (Linear/Nonlinear), Problem Decomposition, Abstract Thinking, Root Cause Analysis}} \\
+        \textbf{\normalsize{Professional Attributes:}}{ \normalsize{Verbal/Written Communication, Adaptability, Agile Development, Fast Learner}} \\
+        \textbf{\normalsize{AI \& Machine Learning:}}{ \normalsize{ML (Supervised/Unsupervised, EDA, Feature Engineering), Deep Learning (NLP, CV, Transformers), Generative AI (GPT, BERT, RAG, Fine-tuning, Vector DBs), Agent Systems (LangChain, LangGraph, Orchestration)}} \\
+    }}
+\end{itemize}
+%  \vspace{-15pt}
+
+
+%-----------INVOLVEMENT---------------
+\section{EXTRACURRICULAR}
+    \resumeSubHeadingListStart
+    \resumeSubheading{Dhaka University IT Society (DUITS)}{May 2025 -- April 2026}{President, 11th Executive Committee}{Dhaka, Bangladesh}
+            \resumeItemListStart
+                \resumeItem{Conducted sessions on PC building and basic computing, mastering Google search for academic excellence, and cybersecurity awareness for women.}
+                % \resumeItem{Recipient of the Best Volunteer Award in 2022 and 2024 for exemplary contributions.}
+                \resumeItem{Contributed actively to DUITS' mission of promoting IT education, organizing events, workshops, and fostering collaboration among students and professionals.}
+                \resumeItem{Engaged in community-building, networking, and sharing IT expertise within the society.}
+            \resumeItemListEnd
+    \resumeSubHeadingListEnd
+        \resumeSubheading{Ministry of Health and Family Welfare, People's Republic of Bangladesh }{August 2024 -- March 2025}{Member, Health-Related Subcommittee}{Dhaka, Bangladesh}
+            \resumeItemListStart
+                \resumeItem{Collected and analyzed data on casualties and martyrs from the July Revolution, contributing to historical records and policy development collaborating with MIS.}
+                \resumeItem{Student representative of Shaheed Suhrawardy Medical College and Led the Help Center of the July Shaheed Smrity Foundation}
+            \resumeItemListEnd
+        \resumeSubheading{IEEE Computer Society}{January 2024 -- February 2025}{Chair, IEEE CS SB DU EXCOM 2024}{Dhaka, Bangladesh}
+            \resumeItemListStart
+                \resumeItem{Leading the IEEE Computer Society Student Branch Executive Committee (Excom) at Dhaka University for the year 2024.}
+                \resumeItem{Coordinating with the full committee to organize events, workshops, and seminars focused on science and technology.}
+                \resumeItem{Promoting IEEE Computer Society initiatives and fostering collaboration among students and professionals.}
+            \resumeItemListEnd
+    \resumeSubHeadingListEnd
+ \vspace{-11pt}
+% -----------CERTIFICATIONS---------------
+% \section{CERTIFICATIONS}
+% \begin{itemize}[leftmargin=0.15in]
+%     \small
+%     \item Google IT Support Professional Certificate - Coursera, December 2020
+% \end{itemize}
+\section{REFERENCES}
+\begin{itemize}[leftmargin=0.15in]
+    \small
+    \item Prof. Dr. Md. Mamun-Or-Rashid , Professor, Department of Computer Science and Engineering, University of Dhaka. Email: mamun@cse.du.ac.bd ; Phone: +8801811475201
+    \item Dr. Md Mosaddek Khan, Associate Professor, Department of Computer Science and Engineering, University of Dhaka. Email: mosaddek@du.ac.bd ; Phone: +8801768408402
+    \item Md Ashikur Rahman, Artificial Intelligence Lead, The Kow Company Ltd, Dhaka. Email: ashikur@thekowcompany.com ; Phone: +8801675964080 
+\end{itemize}
+
+
+\end{document}
