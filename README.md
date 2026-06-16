@@ -65,20 +65,76 @@ Alongside research, I work on practical AI systems that connect academic ideas w
 *January 2015 — May 2017 · Noakhali, Bangladesh*  
 **GPA: 5.00/5.00**
 
-<details>
-<summary><b>Honors & Awards</b></summary>
+## Honors & Awards
 
-- [2025: Dean's Award for Academic Excellence, Faculty of Engineering, University of Dhaka](https://www.linkedin.com/posts/abdullaharean_areans-deans-award-invitation-activity-7388431943425634304--Csq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28)
-- [2024: Champion, Inter-University NLP Idea Competition, Linguistics Department, University of Dhaka](https://www.linkedin.com/posts/abdullaharean_duabrbayanno-naturallanguageprocessing-bengaliheritage-activity-7169360072488239127-G48N?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28)
-- [2024: 1st Runner-Up, Bhashamul: Inter-University NLP Competition, United International University](https://www.linkedin.com/posts/abdullaharean_i-am-glad-to-announce-that-my-team-teamkhitakortesi-activity-7173172405664698368-Xx_m?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28)
-- [2024: 2nd Runner-Up, DL Enigma 1.0: Inter-University Deep Learning Competition, SUST](https://www.linkedin.com/posts/abdullaharean_i-am-thrilled-to-announce-that-our-team-activity-7166064837989462017-Hi8E?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28)
-- [2024: 7th Position, Code Samurai 2024 Hackathon Final Round, University of Dhaka](https://www.linkedin.com/posts/abdullaharean_codesamuraibd-hackathon-innovation-activity-7196073001052749825-R3Yc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28)
-- [2022: Finalist, Code Samurai 2022 Hackathon Final Round, University of Dhaka](https://www.linkedin.com/posts/abdullaharean_participated-in-code-samurai-2022-final-round-activity-7015198888487780352-T0I_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28)
-- [2022: Best Volunteer Award, Dhaka University IT Society Annual Function](https://www.linkedin.com/posts/abdullaharean_alhamdulillah-awarded%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A9%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%82-activity-6996676041817669632-7uZK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADA0SqcBFs_96NpHtIVeS5AoqAZzWIEeQ28)
-- [2019: 6th Position, Physics Olympiad Dhaka North Regional Round](https://drive.google.com/file/d/1XfBGqnFZdk5kAWYaxUz4ZkmdEGU7P6x_/view?usp=sharing)
-- [2015: 12th Position, Physics Olympiad National Round](https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing)
+<p align="center"><i>Recognition across academics, NLP competitions, hackathons, volunteering, and science olympiads.</i></p>
 
-</details>
+<h3 align="center">Highlights</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/abdullaharean_areans-deans-award-invitation-activity-7388431943425634304--Csq">
+    <img src="awards/deans-award-2025.jpg" alt="Dean's Award 2025" width="260" style="border-radius: 8px; border: 2px solid #0E5484;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/posts/abdullaharean_duabrbayanno-naturallanguageprocessing-bengaliheritage-activity-7169360072488239127-G48N">
+    <img src="awards/nlp-champion-2024.jpg" alt="NLP Champion 2024" width="260" style="border-radius: 8px; border: 2px solid #0E5484;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/posts/abdullaharean_i-am-glad-to-announce-that-my-team-teamkhitakortesi-activity-7173172405664698368-Xx_m">
+    <img src="awards/bhashamul-2024.jpg" alt="Bhashamul 2024" width="260" style="border-radius: 8px; border: 2px solid #0E5484;" />
+  </a>
+</p>
+
+<p align="center">
+  <b>2025 · Dean's Award for Academic Excellence</b> &nbsp;|&nbsp;
+  <b>2024 · NLP Idea Competition Champion</b> &nbsp;|&nbsp;
+  <b>2024 · Bhashamul 1st Runner-Up</b>
+</p>
+
+<h3 align="center">More Awards</h3>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.linkedin.com/posts/abdullaharean_i-am-thrilled-to-announce-that-our-team-activity-7166064837989462017-Hi8E">
+    <img src="awards/dl-enigma-2024.jpg" width="220" style="border-radius: 8px;" alt="DL Enigma 2024" />
+  </a><br/>
+  <sub><b>2024</b> · 2nd Runner-Up, DL Enigma 1.0</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.linkedin.com/posts/abdullaharean_codesamuraibd-hackathon-innovation-activity-7196073001052749825-R3Yc">
+    <img src="awards/code-samurai-2024.jpg" width="220" style="border-radius: 8px;" alt="Code Samurai 2024" />
+  </a><br/>
+  <sub><b>2024</b> · Code Samurai Final Round (7th)</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.linkedin.com/posts/abdullaharean_participated-in-code-samurai-2022-final-round-activity-7015198888487780352-T0I_">
+    <img src="awards/code-samurai-2022.jpg" width="220" style="border-radius: 8px;" alt="Code Samurai 2022" />
+  </a><br/>
+  <sub><b>2022</b> · Code Samurai Finalist</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.linkedin.com/posts/abdullaharean_alhamdulillah-awarded%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A9%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%82-activity-6996676041817669632-7uZK">
+    <img src="awards/duits-volunteer-2022.jpg" width="220" style="border-radius: 8px;" alt="DUITS Volunteer Award 2022" />
+  </a><br/>
+  <sub><b>2022</b> · Best Volunteer, DUITS</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://drive.google.com/file/d/1XfBGqnFZdk5kAWYaxUz4ZkmdEGU7P6x_/view?usp=sharing">
+    <img src="awards/physics-olympiad-2019.jpg" width="220" style="border-radius: 8px;" alt="Physics Olympiad 2019" />
+  </a><br/>
+  <sub><b>2019</b> · Physics Olympiad, Dhaka North (6th)</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing">
+    <img src="awards/physics-olympiad-2015.jpg" width="220" style="border-radius: 8px;" alt="Physics Olympiad 2015" />
+  </a><br/>
+  <sub><b>2015</b> · Physics Olympiad, National (12th)</sub>
+</td>
+</tr>
+</table>
 
 ---
 
