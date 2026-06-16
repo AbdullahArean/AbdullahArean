@@ -208,27 +208,40 @@ Alongside research, I work on practical AI systems that connect academic ideas w
 </tr>
 </table>
 
-### Science Olympiads
+### Science & Math Olympiads
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
   <a href="https://drive.google.com/file/d/1XfBGqnFZdk5kAWYaxUz4ZkmdEGU7P6x_/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="awards/physics-olympiad-2019.jpg" width="90%" style="border-radius: 8px;" alt="Physics Olympiad 2019" />
+    <img src="awards/physics-olympiad-2019.jpg" width="100%" style="border-radius: 8px;" alt="Bangladesh Physics Olympiad 2019" />
   </a>
   <p>
     <img src="https://img.shields.io/badge/2019-6th%20Place-0F4539?style=flat-square" alt="6th Place" /><br/>
-    <a href="https://drive.google.com/file/d/1XfBGqnFZdk5kAWYaxUz4ZkmdEGU7P6x_/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>Physics Olympiad · Dhaka North Regional Round</b></a><br/>
+    <a href="https://drive.google.com/file/d/1XfBGqnFZdk5kAWYaxUz4ZkmdEGU7P6x_/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>Bangladesh Physics Olympiad · Dhaka North Regional Round</b></a><br/>
+    <sub>Higher Secondary</sub><br/>
     <sub><a href="https://drive.google.com/file/d/1XfBGqnFZdk5kAWYaxUz4ZkmdEGU7P6x_/view?usp=sharing" target="_blank" rel="noopener noreferrer">View certificate</a></sub>
   </p>
 </td>
-<td align="center" width="50%" valign="top">
-  <a href="https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="awards/physics-olympiad-2015.jpg" width="90%" style="border-radius: 8px;" alt="Physics Olympiad 2015" />
+<td align="center" width="33%" valign="top">
+  <a href="https://drive.google.com/file/d/1XLt8IC6A7_Bl-xvwRiApj6gesTwLQSEm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="awards/physics-olympiad-2015-junior.jpg" width="100%" style="border-radius: 8px;" alt="Bangladesh Physics Olympiad 2015" />
   </a>
   <p>
-    <img src="https://img.shields.io/badge/2015-12th%20Place-0F4539?style=flat-square" alt="12th Place" /><br/>
-    <a href="https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>Physics Olympiad · National Round</b></a><br/>
+    <img src="https://img.shields.io/badge/2015-16th%20Place-0F4539?style=flat-square" alt="16th Place" /><br/>
+    <a href="https://drive.google.com/file/d/1XLt8IC6A7_Bl-xvwRiApj6gesTwLQSEm/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>Bangladesh Physics Olympiad · National Round</b></a><br/>
+    <sub>Junior</sub><br/>
+    <sub><a href="https://drive.google.com/file/d/1XLt8IC6A7_Bl-xvwRiApj6gesTwLQSEm/view?usp=sharing" target="_blank" rel="noopener noreferrer">View certificate</a></sub>
+  </p>
+</td>
+<td align="center" width="33%" valign="top">
+  <a href="https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="awards/math-olympiad-2012.jpg" width="100%" style="border-radius: 8px;" alt="Bangladesh Mathematical Olympiad 2012" />
+  </a>
+  <p>
+    <img src="https://img.shields.io/badge/2012-Champion-00E278?style=flat-square" alt="Champion" /><br/>
+    <a href="https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>Bangladesh Mathematical Olympiad · Noakhali Region</b></a><br/>
+    <sub>Primary</sub><br/>
     <sub><a href="https://drive.google.com/file/d/1WYHBiMhgMp29h7E2210-LBOyDajiJbTv/view?usp=sharing" target="_blank" rel="noopener noreferrer">View certificate</a></sub>
   </p>
 </td>
